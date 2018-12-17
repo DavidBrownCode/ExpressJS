@@ -1,0 +1,28 @@
+{
+  "name": "expressjs",
+  "version": "1.4.3",
+  "description": "Bus Adm 810",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidBrownCode/ExpressJS.git"
+  },
+  "keywords": [
+    "git",
+    "david",
+    "aaron",
+    "brown",
+    "work",
+    "810",
+    "busadm"
+  ],
+  "author": "David A. Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidBrownCode/ExpressJS/issues"
+  },
+  "homepage": "https://github.com/DavidBrownCode/ExpressJS#readme"
+}
