@@ -7,12 +7,6 @@ export class DataServices {
     constructor(http) {
         this.httpClient = http;
         this.BASE_URL = "http://localhost:5000/api/";
-    }
-
-
-    constructor(http) {
-        this.httpClient = http;
-        this.BASE_URL = "http://localhost:5000/api/";
         this.httpClient.configure(config => {
             config
             .withBaseUrl(this.BASE_URL)
