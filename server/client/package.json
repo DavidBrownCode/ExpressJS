@@ -12,6 +12,7 @@
     "aurelia-bootstrapper": "^2.3.0",
     "bluebird": "^3.5.2",
     "cors": "^2.8.5",
+    "regenerator-runtime": "^0.13.1",
     "requirejs": "^2.3.6",
     "text": "github:requirejs/text#latest"
   },
